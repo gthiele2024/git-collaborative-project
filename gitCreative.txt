@@ -5,7 +5,7 @@ Three - good
 Four - because
 Five - they
 Six - have
-Seven
+Seven - nothing
 Eight
 Nine
 Ten
