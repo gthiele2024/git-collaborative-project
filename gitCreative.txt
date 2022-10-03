@@ -1,6 +1,6 @@
 Zero redos
-One
-Two
+One - Eggs
+Two - are
 Three
 Four
 Five
@@ -10,4 +10,3 @@ Eight
 Nine
 Ten
 Grant and Gus
-One - Eggs are a food
