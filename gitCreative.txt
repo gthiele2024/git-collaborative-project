@@ -4,7 +4,7 @@ Two - are
 Three - good
 Four - because
 Five - they
-Six
+Six - have
 Seven
 Eight
 Nine
