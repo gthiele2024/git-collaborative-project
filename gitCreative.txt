@@ -8,5 +8,5 @@ Six - have
 Seven - nothing
 Eight - in
 Nine - them
-Ten
+Ten - .
 Grant and Gus
