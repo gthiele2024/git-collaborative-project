@@ -1,1 +1,1 @@
-i am based
+i am cool
